@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: kl.example
+---
+testFramework: junit
+sourceLanguage: java
